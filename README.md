@@ -1,2 +1,2 @@
-# roguelikeproject
-apprentissage du python 
+# ML
+apprentissage du python et du machine learning 
