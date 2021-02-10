@@ -1,2 +1,2 @@
 # ML
-apprentissage du python et du machine learning 
+#all my ML project from the beginning
