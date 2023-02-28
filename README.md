@@ -1,2 +1,2 @@
-# ML
-#all my ML project from the beginning
+# Mchine learning from scratch
+# A collection of machine learning implementation from scratch in python. 
